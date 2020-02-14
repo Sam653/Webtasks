@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f2524eb9-47bb-4217-825a-830eb1a5646b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webtasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Webtasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task1/GoogleSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/task1/GoogleSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task1/IntakeLogIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/task1/Login.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,26 +228,38 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581590698914">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="281" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581590698914" />
+    <state x="651" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581589958906">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="651" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581589958906" />
     <state x="756" y="385" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581405017502">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="756" y="385" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581405017502" />
-    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1581429511035">
+    <state x="756" y="406" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581589967158">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581429511035" />
-    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1581429511035">
+    <state x="756" y="406" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581589967158" />
+    <state width="1877" height="111" key="GridCell.Tab.0.bottom" timestamp="1581515353161">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581429511035" />
-    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1581429511034">
+    <state width="1877" height="111" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581515353161" />
+    <state width="1877" height="111" key="GridCell.Tab.0.center" timestamp="1581515353161">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581429511034" />
-    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1581429511035">
+    <state width="1877" height="111" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581515353161" />
+    <state width="1877" height="111" key="GridCell.Tab.0.left" timestamp="1581515353161">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581429511035" />
+    <state width="1877" height="111" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581515353161" />
+    <state width="1877" height="111" key="GridCell.Tab.0.right" timestamp="1581515353161">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="111" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581515353161" />
     <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1581429511035">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -259,9 +276,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581429511035" />
-    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1581490964878">
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1581667054113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581490964878" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581667054113" />
   </component>
 </project>
